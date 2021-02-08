@@ -1,3 +1,3 @@
 # Git Submodule Repo Test
 
- Git branching test repository
+Test repo intended to be used for testing as a submodule to other repos
